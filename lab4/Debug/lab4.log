@@ -1,0 +1,36 @@
+﻿  Source.cpp
+c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab4\lab4\sort.h(181): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab4\lab4\sort.h(180): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab4\lab4\sort.h(173): note: выполняется компиляция ссылки на экземпляр шаблон функции "void sorting::Sort<int>::print(std::vector<sorting::dat<int>,std::allocator<_Ty>>,unsigned int)"
+          with
+          [
+              _Ty=sorting::dat<int>
+          ]
+  c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab4\lab4\sort.h(162): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab4\lab4\source.cpp(13): note: выполняется компиляция ссылки на экземпляр шаблон функции "void sorting::Sort<int>::demo(void)"
+  c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab4\lab4\source.cpp(12): note: выполняется компиляция ссылки на экземпляр шаблон класс "sorting::Sort<int>"
+c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab4\lab4\sort.h(150): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab4\lab4\sort.h(148): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab4\lab4\sort.h(93): note: выполняется компиляция ссылки на экземпляр шаблон функции "void sorting::Sort<int>::sort12(std::vector<sorting::dat<int>,std::allocator<_Ty>> &)"
+          with
+          [
+              _Ty=sorting::dat<int>
+          ]
+  c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab4\lab4\sort.h(89): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab4\lab4\sort.h(175): note: выполняется компиляция ссылки на экземпляр шаблон функции "void sorting::Sort<int>::testSort(std::vector<sorting::dat<int>,std::allocator<_Ty>>)"
+          with
+          [
+              _Ty=sorting::dat<int>
+          ]
+c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab4\lab4\sort.h(116): warning C4018: <=: несоответствие типов со знаком и без знака
+  c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab4\lab4\sort.h(114): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab4\lab4\sort.h(105): note: выполняется компиляция ссылки на экземпляр шаблон функции "void sorting::Sort<int>::sort23(std::vector<sorting::dat<int>,std::allocator<_Ty>> &)"
+          with
+          [
+              _Ty=sorting::dat<int>
+          ]
+c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab4\lab4\sort.h(118): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab4\lab4\sort.h(122): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab4\lab4\sort.h(124): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab4\lab4\sort.h(125): warning C4018: >=: несоответствие типов со знаком и без знака
+  lab4.vcxproj -> C:\Users\morga\Documents\Visual Studio 2015\Projects\2course\algo_labs\lab4\Debug\lab4.exe
